@@ -1,0 +1,5 @@
+The complete project files are hosted on Hugging Face due to their large file size.
+
+Download the Project: https://huggingface.co/Shree-Harini-K/Hasta-Mudra/tree/main
+
+You can access and download the complete project archive using the link above.
